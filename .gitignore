@@ -1,2 +1,45 @@
 # Ignore Visual Studio files
 FullStack API/FullStack.API/.vs/
+
+# D:\WEB\AngularEF\FullStack UI\FullStack.UI
+
+# Compiled output
+FullStack UI/FullStack.UI/dist
+FullStack UI/FullStack.UI/tmp
+FullStack UI/FullStack.UI/out-tsc
+FullStack UI/FullStack.UI/bazel-out
+
+# Node
+FullStack UI/FullStack.UI/node_modules
+FullStack UI/FullStack.UI/npm-debug.log
+FullStack UI/FullStack.UI/yarn-error.log
+
+# IDEs and editors
+FullStack UI/FullStack.UI/.idea/
+FullStack UI/FullStack.UI/.project
+FullStack UI/FullStack.UI/.classpath
+FullStack UI/FullStack.UI/.c9/
+FullStack UI/FullStack.UI/*.launch
+FullStack UI/FullStack.UI/.settings/
+FullStack UI/FullStack.UI/*.sublime-workspace
+
+# Visual Studio Code
+FullStack UI/FullStack.UI/.vscode/*
+FullStack UI/FullStack.UI/!.vscode/settings.json
+FullStack UI/FullStack.UI/!.vscode/tasks.json
+FullStack UI/FullStack.UI/!.vscode/launch.json
+FullStack UI/FullStack.UI/!.vscode/extensions.json
+FullStack UI/FullStack.UI/.history/*
+
+# Miscellaneous
+FullStack UI/FullStack.UI//.angular/cache
+FullStack UI/FullStack.UI/.sass-cache/
+FullStack UI/FullStack.UI//connect.lock
+FullStack UI/FullStack.UI//coverage
+FullStack UI/FullStack.UI/libpeerconnection.log
+FullStack UI/FullStack.UI/testem.log
+FullStack UI/FullStack.UI/typings
+
+# System files
+FullStack UI/FullStack.UI/.DS_Store
+FullStack UI/FullStack.UI/Thumbs.db

@@ -1,8 +1,6 @@
 # Ignore Visual Studio files
 FullStack API/FullStack.API/.vs/
 
-# D:\WEB\AngularEF\FullStack UI\FullStack.UI
-
 # Compiled output
 FullStack UI/FullStack.UI/dist
 FullStack UI/FullStack.UI/tmp
@@ -32,10 +30,10 @@ FullStack UI/FullStack.UI/!.vscode/extensions.json
 FullStack UI/FullStack.UI/.history/*
 
 # Miscellaneous
-FullStack UI/FullStack.UI//.angular/cache
+FullStack UI/FullStack.UI/.angular/cache
 FullStack UI/FullStack.UI/.sass-cache/
-FullStack UI/FullStack.UI//connect.lock
-FullStack UI/FullStack.UI//coverage
+FullStack UI/FullStack.UI/connect.lock
+FullStack UI/FullStack.UI/coverage
 FullStack UI/FullStack.UI/libpeerconnection.log
 FullStack UI/FullStack.UI/testem.log
 FullStack UI/FullStack.UI/typings

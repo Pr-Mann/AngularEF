@@ -134,3 +134,4 @@ D:\WEB\AngularEF\FullStack API\FullStack.API\FullStack.API\obj\Debug\net8.0\refi
 D:\WEB\AngularEF\FullStack API\FullStack.API\FullStack.API\obj\Debug\net8.0\FullStack.API.pdb
 D:\WEB\AngularEF\FullStack API\FullStack.API\FullStack.API\obj\Debug\net8.0\FullStack.API.genruntimeconfig.cache
 D:\WEB\AngularEF\FullStack API\FullStack.API\FullStack.API\obj\Debug\net8.0\ref\FullStack.API.dll
+D:\WEB\AngularEF\FullStack API\FullStack.API\FullStack.API\obj\Debug\net8.0\FullStack.API.sourcelink.json
